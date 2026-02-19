@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Salvation",
+  "base_artist": "Five Finger Death Punch",
+  "createdAt": "2026-02-19T10:46:23.644996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Extinction Level Event (The Song of Salvation)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/01_Extinction_Level_Event_(The_Song_of_Salvation)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Razorblade Salvation",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/02_Razorblade_Salvation_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Razorblade Salvation ft. Shara Worden",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/03_Razorblade_Salvation_ft._Shara_Worden_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brother Love's Travelling Salvation Show",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/04_Brother_Love's_Travelling_Salvation_Show_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brother Loves Travelling Salvation Show",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/05_Brother_Loves_Travelling_Salvation_Show_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Glory For Salvation",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/06_Glory_For_Salvation_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Salvation",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/07_Salvation_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Salvation Code",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/08_Salvation_Code_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Salvation Code",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/09_Salvation_Code_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Salvation Code (Makeup and Vanity Set Remix)",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/10_Salvation_Code_(Makeup_and_Vanity_Set_Remix)_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Salvation",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/11_Salvation_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Salvation - Live In Paris",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/12_Salvation_-_Live_In_Paris_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Salvation - Live",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/13_Salvation_-_Live_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Salvation (Live in Madrid)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/14_Salvation_(Live_in_Madrid)_The_Cranberries.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Salvation",
+      "artist": "Five Finger Death Punch",
+      "has_synced": false,
+      "path": "select/pl_01_Salvation_Five_Finger_Death_Punch.txt"
+    }
+  ]
+}
