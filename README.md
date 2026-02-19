@@ -1,0 +1,29 @@
+# Five Finger Death Punch – Salvation
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Disgusted by your weakness
+You have no right to live
+To know you... is to hate you
+But your life's yours to give
+You monkey-see; you monkey-do
+You're always doing what they
+tell you to
+You're such a puppet on a string
+You don't get it
+I won't bow to something that
+I've never seen
+I can't believe in something
+that doesn't believe in me
+I'm not blood of your blood
+I'm no son of your God
+I've no faith in your fate
+Still, I find salvation
+You think you have the
+answers...
+To every last detail
+In your eyes, you're the
+"victor"?
+In mine, you've all but failed
+```
